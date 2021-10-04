@@ -1,7 +1,7 @@
 1. Difference between var and let?
 
-var can be declared in global and it won't be limited. It is used as global scope.
-let can be declared within a scope and it is limited. It is used as limited scope.
+var can be declared in global and it won't be limited. It is used as global scope. var allows to redeclare a variable.
+let can be declared within a scope and it is limited. It is used as limited scope. let won't allow to redeclare a variable.
 
 var is the most preferrable one as it can be used globally.
 
