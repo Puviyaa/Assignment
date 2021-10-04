@@ -7,5 +7,5 @@ var is the most preferrable one as it can be used globally.
 
 2. Why null, array printed as object type in console?
 
-Null is primitive data type. Since it is assigning reference to an object , it is showing as object type.
+Null is primitive data type. Since it is assigning reference to an object , it is showing as object type. But it is a global BUG.
 An array is a derived data type and all derived data types will be a object type.
